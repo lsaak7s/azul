@@ -34,12 +34,6 @@ console.log(user[1]); */
 
 
 
-
-
-
-
-
-
 /*
 const media = 7
 const notaAluno = 7
@@ -65,7 +59,6 @@ if (senha == senhaDigitada) {
 
 
 
-
 /*
 function HelloWorld() {
 
@@ -78,6 +71,13 @@ HelloWorld()*/
 
 
 
+/*
+const azul123 = document.querySelector("input")
+azul123.placeholder = "Digite algo aqui..."
+azul123.value = "Digite algo aqui........................"
+console.log(azul123.placeholder)
+*/
 
-const azul123 = document.getElementById("azul123") 
-console.log(azul123)
+
+
+
