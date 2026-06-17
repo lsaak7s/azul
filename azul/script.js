@@ -66,16 +66,18 @@ if (senha == senhaDigitada) {
 
 
 
-
-
-
-
-
-
+/*
 function HelloWorld() {
 
     console.log("Hello World")
     
 }
 
-HelloWorld()
+HelloWorld()*/
+
+
+
+
+
+const azul123 = document.getElementById("azul123") 
+console.log(azul123)
