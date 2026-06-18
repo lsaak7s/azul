@@ -79,5 +79,25 @@ console.log(azul123.placeholder)
 */
 
 
+/*
+const botton = document.querySelector("#azul123")
 
+button.style.backgroundColor = "yellow"
+*/
 
+/*
+function alertbutton(button) {
+    alert("Button clicked!")
+
+}
+
+function digiteiNoInput() {
+    console.log(input.value)
+}
+
+function aperteiNoButton() {
+    console.log(input.value)
+
+}
+
+const input = document.querySelector("#digiteiNoInput")*/
