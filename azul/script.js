@@ -98,6 +98,13 @@ function digiteiNoInput() {
 function aperteiNoButton() {
     console.log(input.value)
 
-}
+}*/
 
-const input = document.querySelector("#digiteiNoInput")*/
+
+/*
+const select = document.querySelector("#select")
+
+select.addEventListener("change", function() {
+    console.log(select.value)
+}) */
+
